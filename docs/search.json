@@ -2,9 +2,9 @@
   {
     "objectID": "project.html",
     "href": "project.html",
-    "title": "Project",
+    "title": "Projects",
     "section": "",
-    "text": "Report of Health Data Science\nProject: Mid-term project\nLocation: University of Michigan\n#RNAseqAnalysis #MitochondrialDisease #DataScience #R #Visualization\nRNAseq Analysis from GSE292178.\nReport | Mar. 2026\n\n\n\n\nResearch Paper of AI Drug Discovery\nJournal: CSBJ\nAuthors: So et al. \n#AIDrugDiscovery #KnowledgeGraph #ParkinsonDisease #DataScience #ResearchPaper #AI\nAI Application of Biomedical Knowledge-Graph DB\nI am the first and corresponding Author.\nPaper | Jan. 2026"
+    "text": "Health Data Science Report\nMid-term Project | University of Michigan\nRNA-seq analysis of the GSE292178 dataset investigating the effects of the PDE5 inhibitor Viagra on mitochondrial disease.\n#RNAseqAnalysis #MitochondrialDisease #R #DataScience\n 📄 View Report | Mar 2026\n\n\n\n\n\n\nAI Drug Discovery Paper\nJournal: CSBJ | So et al.\nAI application of a Biomedical Knowledge-Graph Database for Parkinson’s Disease. (First & Corresponding Author)\n#AIDrugDiscovery #KnowledgeGraph #AI #ResearchPaper #ParkinsonDisease\n 🔗 Read Paper | Jan 2026"
   },
   {
     "objectID": "index.html",
@@ -18,20 +18,6 @@
     "href": "about.html",
     "title": "VERITAS LUX MEA",
     "section": "",
-    "text": "知之爲知之 不知爲不知 是知也 - Confucius (The Analects 2.17)\n- To know what you know, and to know what you don't know, that is true knowledge.\nYou are the light of the world. - Jesus Christ (Mattew 5:14)\n배워서 남 주자! - Korean saying (Modified version)\n- Use what you learn to help others.\nCentral Limit Theorem\n\n\\[\n\\sqrt{n}(\\bar{X}_n - \\mu) \\xrightarrow{d} N(0,\\sigma^2)\n\\]"
-  },
-  {
-    "objectID": "about.html#philosophy-within-me",
-    "href": "about.html#philosophy-within-me",
-    "title": "VERITAS LUX MEA",
-    "section": "",
-    "text": "知之爲知之 不知爲不知 是知也 - Confucius (The Analects 2.17)\n- To know what you know, and to know what you don't know, that is true knowledge.\nYou are the light of the world. - Jesus Christ (Mattew 5:14)\n배워서 남 주자! - Korean saying (Modified version)\n- Use what you learn to help others.\nCentral Limit Theorem\n\n\\[\n\\sqrt{n}(\\bar{X}_n - \\mu) \\xrightarrow{d} N(0,\\sigma^2)\n\\]"
-  },
-  {
-    "objectID": "about.html#ai-and-drug-development",
-    "href": "about.html#ai-and-drug-development",
-    "title": "VERITAS LUX MEA",
-    "section": "AI and Drug Development",
-    "text": "AI and Drug Development\n\nMy Recent Research Paper!\n https://doi.org/10.1016/j.csbj.2025.12.035"
+    "text": "Philosophy Within Me\n\n知之爲知之 不知爲不知 是知也 To know what you know, and to know what you don’t know, that is true knowledge.\n— Confucius (The Analects 2.17)\n\n\n\nYou are the light of the world.\n— Jesus Christ (Matthew 5:14)\n\n\n\n배워서 남 주자! Use what you learn to help others.\n— Korean Proverb (Modified)\n\n\n\nCentral Limit Theorem\n\\[\\sqrt{n}(\\bar{X}_n - \\mu) \\xrightarrow{d} N(0,\\sigma^2)\\] Can you guess what I mean by the CLT?"
   }
 ]

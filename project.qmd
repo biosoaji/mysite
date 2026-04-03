@@ -1,40 +1,48 @@
 ---
-title: "Project"
+title: "Projects"
 editor: 
   markdown: 
     wrap: 72
 ---
 
-::::::: grid
-:::: g-col-4
-::: card
-### Report of Health Data Science 
+::::: {.grid}
 
-**Project:** Mid-term project\
-**Location:** University of Michigan
+:::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+![](gene.jpg){.card-img-top alt="gene"}
 
-`#RNAseqAnalysis` `#MitochondrialDisease` `#DataScience` `#R` `#Visualization`
+::: {.card-body}
+### Health Data Science Report
 
-RNAseq Analysis from GSE292178.
+**Mid-term Project** | *University of Michigan*
 
-[Report](MidTermProject_So_Final_Rev.html) \| Mar. 2026
+RNA-seq analysis of the GSE292178 dataset investigating the effects of the PDE5 inhibitor Viagra on mitochondrial disease.
+
+`#RNAseqAnalysis` `#MitochondrialDisease` `#R` `#DataScience`
+
+<br>
+[📄 View Report](MidTermProject_So_Final_Rev.html) | **Mar 2026**
+:::
 :::
 ::::
 
-:::: g-col-4
-::: card
-### Research Paper of AI Drug Discovery 
+:::: {.g-col-12 .g-col-md-6}
+::: {.card .h-100}
+::: {.card-body}
+### AI Drug Discovery Paper
 
-**Journal:** CSBJ\
-**Authors:** So et al. 
+**Journal: CSBJ** | *So et al.*
 
-`#AIDrugDiscovery` `#KnowledgeGraph` `#ParkinsonDisease` `#DataScience` `#ResearchPaper` `#AI `
+AI application of a Biomedical Knowledge-Graph Database for Parkinson's Disease. *(First & Corresponding Author)*
 
-AI Application of Biomedical Knowledge-Graph DB\
-I am the first and corresponding Author.
+`#AIDrugDiscovery` `#KnowledgeGraph` `#AI` `#ResearchPaper` `#ParkinsonDisease`
 
-[Paper](https://doi.org/10.1016/j.csbj.2025.12.035) \|
-Jan. 2026
+<br>
+[🔗 Read Paper](https://doi.org/10.1016/j.csbj.2025.12.035) | **Jan 2026**
+:::
+
+![](So_paper.png){.card-img-bottom alt="title"}
 :::
 ::::
-:::::::
+
+:::::

@@ -2,30 +2,29 @@
 title: "VERITAS LUX MEA"
 ---
 
-## Philosophy Within Me
+### Philosophy Within Me
 
--   **知之爲知之 不知爲不知 是知也 - Confucius (The Analects 2.17)**
+> **知之爲知之 不知爲不知 是知也** *To know what you know, and to know what you don't know, that is true knowledge.*
+>
+> — **Confucius** (The Analects 2.17)
 
-    ```         
-    - To know what you know, and to know what you don't know, that is true knowledge.
-    ```
+------------------------------------------------------------------------
 
--   **You are the light of the world. - Jesus Christ (Mattew 5:14)**
+> **You are the light of the world.**
+>
+> — **Jesus Christ** (Matthew 5:14)
 
--   **배워서 남 주자! - Korean saying (Modified version)**
+------------------------------------------------------------------------
 
-    ```         
-    - Use what you learn to help others.
-    ```
+> **배워서 남 주자!** *Use what you learn to help others.*
+>
+> — **Korean Proverb** (Modified)
 
--   **Central Limit Theorem**
+------------------------------------------------------------------------
 
-$$
-\sqrt{n}(\bar{X}_n - \mu) \xrightarrow{d} N(0,\sigma^2)
-$$
+> **Central Limit Theorem** 
+>
+> $$\sqrt{n}(\bar{X}_n - \mu) \xrightarrow{d} N(0,\sigma^2)$$
+>*Can you guess what I mean by the CLT?*
 
-## AI and Drug Development
 
-### My Recent Research Paper!
-
-![AI Application of Biomedical Knowledge-Graph DB](so_paper.png) <https://doi.org/10.1016/j.csbj.2025.12.035>

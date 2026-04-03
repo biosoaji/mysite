@@ -42,7 +42,7 @@ Disease.\
 <br> [🔗 Read Paper](https://doi.org/10.1016/j.csbj.2025.12.035) \|
 **Jan 2026**
 :::
-![](So_paper.jpg){.card-img-bottom alt="title" style="border:2px solid #c0392b; border-radius:2px;"}
+![](so_paper_head.jpg){.card-img-bottom alt="title" style="border:2px solid #c0392b; border-radius:2px;"}
 ::::
 :::::
 :::::::::

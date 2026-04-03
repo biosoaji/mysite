@@ -1,5 +1,5 @@
 ---
-title: "Minyoung So"
+title: "Minyoung So, Ph.D."
 image: Minyoung So_Profile Photo.jpeg
 toc: false
 about: 
@@ -15,7 +15,7 @@ about:
       href: mailto:sominy@umich.edu
 ---
 
-Pharmaceutical R&D Scientist (Ph.D.)\
+Pharmaceutical R&D Scientist\
 Project Management Professional (PMP)$^{\textregistered}$\
 Aspiring Biostatistician\
 

@@ -28,12 +28,5 @@ format:
     css: styles.css
     toc: true
 
-page-footer: 
-    left:
-      University of Michiagan <br>
-      Department of Biostatistics
-    right:
-      LICENSE <br>
-      View the [source at GitHub](https://github.com/biosoaji/BIOSTAT620W26).
 
 

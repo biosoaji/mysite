@@ -5,44 +5,44 @@ editor:
     wrap: 72
 ---
 
-::::: {.grid}
-
-:::: {.g-col-12 .g-col-md-6}
-::: {.card .h-100}
+::::::::: grid
+::::: {.g-col-12 .g-col-md-6}
+:::: {.card .h-100}
 ![](gene.jpg){.card-img-top alt="gene"}
 
-::: {.card-body}
+::: card-body
 ### Health Data Science Report
 
-**Mid-term Project** | *University of Michigan*
+**Mid-term Project** \| *University of Michigan*
 
-RNA-seq analysis of the GSE292178 dataset investigating the effects of the PDE5 inhibitor Viagra on mitochondrial disease.
+RNA-seq analysis of the GSE292178 dataset investigating the effects of
+the PDE5 inhibitor (Viagra) on mitochondrial disease.
 
 `#RNAseqAnalysis` `#MitochondrialDisease` `#R` `#DataScience`
 
-<br>
-[📄 View Report](MidTermProject_So_Final_Rev.html) | **Mar 2026**
-:::
+<br> [📄 View Report](MidTermProject_So_Final_Rev.html) \| **Mar 2026**
 :::
 ::::
+:::::
 
-:::: {.g-col-12 .g-col-md-6}
-::: {.card .h-100}
-::: {.card-body}
+::::: {.g-col-12 .g-col-md-6}
+:::: {.card .h-100}
+::: card-body
 ### AI Drug Discovery Paper
 
-**Journal: CSBJ** | *So et al.*
+**Journal: CSBJ** \| *So et al.*
 
-AI application of a Biomedical Knowledge-Graph Database for Parkinson's Disease. *(First & Corresponding Author)*
+AI application of a Biomedical Knowledge-Graph Database for Parkinson's
+Disease.\
+*(First & Corresponding Author)*
 
-`#AIDrugDiscovery` `#KnowledgeGraph` `#AI` `#ResearchPaper` `#ParkinsonDisease`
+`#AIDrugDiscovery` `#KnowledgeGraph` `#AI` `#ResearchPaper`
+`#ParkinsonDisease`
 
-<br>
-[🔗 Read Paper](https://doi.org/10.1016/j.csbj.2025.12.035) | **Jan 2026**
+<br> [🔗 Read Paper](https://doi.org/10.1016/j.csbj.2025.12.035) \|
+**Jan 2026**
 :::
-
-![](So_paper.png){.card-img-bottom alt="titleShot"}
-:::
+![](So_paper.jpg){.card-img-bottom alt="title" style="border:2px solid #c0392b; border-radius:2px;"}
 ::::
-
 :::::
+:::::::::

@@ -21,11 +21,11 @@
     "text": "知之爲知之 不知爲不知 是知也 - Confucius (The Analects 2.17)\n- To know what you know, and to know what you don't know, that is true knowledge.\nYou are the light of the world. - Jesus Christ (Mattew 5:14)\n배워서 남 주자! - Korean saying (Modified version)\n- Use what you learn to help others.\nCentral Limit Theorem\n\n\\[\n\\sqrt{n}(\\bar{X}_n - \\mu) \\xrightarrow{d} N(0,\\sigma^2)\n\\]"
   },
   {
-    "objectID": "about.html#philosophy",
-    "href": "about.html#philosophy",
+    "objectID": "about.html#philosophy-within-me",
+    "href": "about.html#philosophy-within-me",
     "title": "VERITAS LUX MEA",
     "section": "",
-    "text": "-To know what you know, and to know what you don’t know, that is true knowledge.\n\n\n\n\n\n\n-Use what you learn to help others\n\n\n\n\\[\n\\sqrt{n}(\\bar{X}_n - \\mu) \\xrightarrow{d} N(0,\\sigma^2)\n\\]"
+    "text": "知之爲知之 不知爲不知 是知也 - Confucius (The Analects 2.17)\n- To know what you know, and to know what you don't know, that is true knowledge.\nYou are the light of the world. - Jesus Christ (Mattew 5:14)\n배워서 남 주자! - Korean saying (Modified version)\n- Use what you learn to help others.\nCentral Limit Theorem\n\n\\[\n\\sqrt{n}(\\bar{X}_n - \\mu) \\xrightarrow{d} N(0,\\sigma^2)\n\\]"
   },
   {
     "objectID": "about.html#ai-and-drug-development",
@@ -33,12 +33,5 @@
     "title": "VERITAS LUX MEA",
     "section": "AI and Drug Development",
     "text": "AI and Drug Development\n\nMy Recent Research Paper!\n https://doi.org/10.1016/j.csbj.2025.12.035"
-  },
-  {
-    "objectID": "about.html#philosophy-within-me",
-    "href": "about.html#philosophy-within-me",
-    "title": "VERITAS LUX MEA",
-    "section": "",
-    "text": "知之爲知之 不知爲不知 是知也 - Confucius (The Analects 2.17)\n- To know what you know, and to know what you don't know, that is true knowledge.\nYou are the light of the world. - Jesus Christ (Mattew 5:14)\n배워서 남 주자! - Korean saying (Modified version)\n- Use what you learn to help others.\nCentral Limit Theorem\n\n\\[\n\\sqrt{n}(\\bar{X}_n - \\mu) \\xrightarrow{d} N(0,\\sigma^2)\n\\]"
   }
 ]

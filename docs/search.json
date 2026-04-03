@@ -2,22 +2,43 @@
   {
     "objectID": "project.html",
     "href": "project.html",
-    "title": "project",
+    "title": "Project",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Report of Health Data Science\nProject: Mid-term project\nLocation: University of Michigan\n#RNAseqAnalysis #MitochondrialDisease #DataScience #R #Visualization\nRNAseq Analysis from GSE292178.\nReport | Mar. 2026\n\n\n\n\nResearch Paper of AI Drug Discovery\nJournal: CSBJ\nAuthors: So et al. \n#AIDrugDiscovery #KnowledgeGraph #ParkinsonDisease #DataScience #ResearchPaper #AI\nAI Application of Biomedical Knowledge-Graph DB\nI am the first and corresponding Author.\nPaper | Jan. 2026"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "mysite",
+    "title": "Minyoung So",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Pharmaceutical R&D Scientist (Ph.D.)\nProject Management Professional (PMP)\\(^{\\textregistered}\\)\nAspiring Biostatistician\n\nSpecialty: \nAI-based Drug Discovery and Development\nRare and Neurodegenerative Diseases and Mitochondrial Pathophysiology"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "VERITAS LUX MEA",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "知之爲知之 不知爲不知 是知也 - Confucius (The Analects 2.17)\n- To know what you know, and to know what you don't know, that is true knowledge.\nYou are the light of the world. - Jesus Christ (Mattew 5:14)\n배워서 남 주자! - Korean saying (Modified version)\n- Use what you learn to help others.\nCentral Limit Theorem\n\n\\[\n\\sqrt{n}(\\bar{X}_n - \\mu) \\xrightarrow{d} N(0,\\sigma^2)\n\\]"
+  },
+  {
+    "objectID": "about.html#philosophy",
+    "href": "about.html#philosophy",
+    "title": "VERITAS LUX MEA",
+    "section": "",
+    "text": "-To know what you know, and to know what you don’t know, that is true knowledge.\n\n\n\n\n\n\n-Use what you learn to help others\n\n\n\n\\[\n\\sqrt{n}(\\bar{X}_n - \\mu) \\xrightarrow{d} N(0,\\sigma^2)\n\\]"
+  },
+  {
+    "objectID": "about.html#ai-and-drug-development",
+    "href": "about.html#ai-and-drug-development",
+    "title": "VERITAS LUX MEA",
+    "section": "AI and Drug Development",
+    "text": "AI and Drug Development\n\nMy Recent Research Paper!\n https://doi.org/10.1016/j.csbj.2025.12.035"
+  },
+  {
+    "objectID": "about.html#philosophy-within-me",
+    "href": "about.html#philosophy-within-me",
+    "title": "VERITAS LUX MEA",
+    "section": "",
+    "text": "知之爲知之 不知爲不知 是知也 - Confucius (The Analects 2.17)\n- To know what you know, and to know what you don't know, that is true knowledge.\nYou are the light of the world. - Jesus Christ (Mattew 5:14)\n배워서 남 주자! - Korean saying (Modified version)\n- Use what you learn to help others.\nCentral Limit Theorem\n\n\\[\n\\sqrt{n}(\\bar{X}_n - \\mu) \\xrightarrow{d} N(0,\\sigma^2)\n\\]"
   }
 ]

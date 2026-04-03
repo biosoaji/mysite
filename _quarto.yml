@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: Dr.So
+        text: AboutMe
       - href: project.qmd
         text: MissionPossible
   page-footer: 

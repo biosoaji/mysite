@@ -1,11 +1,24 @@
 ---
-title: "mysite"
+title: "Minyoung So"
+image: Minyoung So_Profile Photo.jpeg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/minyoungso/
+    - text: GitHub
+      href: https://github.com/biosoaji
+    - text: Email
+      href: mailto:sominy@umich.edu
 ---
 
-This is a Quarto website.
+Pharmaceutical R&D Scientist (Ph.D.)\
+Project Management Professional (PMP)$^{\textregistered}$\
+Aspiring Biostatistician\
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Specialty:  \
+AI-based Drug Discovery and Development\
+Rare and Neurodegenerative Diseases and Mitochondrial Pathophysiology\
